@@ -6,6 +6,7 @@ If you want to launch ValueFinder without worrying about hosting and backups hea
 ## Installation
 
 ### Requirements
+Docker
 
 ### Setting up the environment
 
